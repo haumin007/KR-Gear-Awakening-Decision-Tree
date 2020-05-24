@@ -4,3 +4,5 @@ Python script for walking through the decision-tree in awakening gear, and deter
 Interactive version:
 
 https://mybinder.org/v2/gh/haumin007/KR-Gear-Awakening-Decision-Tree/master?filepath=Gear%20Awakening%20Guide%202020.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/haumin007/KR-Gear-Awakening-Decision-Tree/master?filepath=Gear%20Awakening%20Guide%202020.ipynb)
